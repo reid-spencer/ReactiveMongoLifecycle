@@ -1,4 +1,4 @@
-ReactiveMongoShutdown
-=====================
+ReactiveMongoLifecycle
+======================
 
-A test case for issues with shutting down reactive mongo
+A test case for issues with starting up and shutting down ReactiveMongo
